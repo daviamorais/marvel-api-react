@@ -1,13 +1,10 @@
-# Inicio projeto com React App
+# Personagens API Marvel
+##### Projeto voltado para consumir dados da API Marvel para mostrar todos os personagens.
 
-Projeto voltado para consumir dados da API Marvel para mostrar todos os personagens.
+## Tecnologia
 
-🚀 Tecnologias utilizadas
-O projeto foi desenvolvido utilizando as seguintes tecnologias
-
-ReactJS
-Node
-Axios
-CSS
-HTML
-
+- [ReactJS] 
+- [Node.JS] 
+- [HTML]
+- [CSS] 
+- [Axios]
